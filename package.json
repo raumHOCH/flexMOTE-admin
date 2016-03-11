@@ -1,0 +1,9 @@
+{
+    "name": "flexmote-admin",
+    "version": "0.1.0",
+    "description": "flexMOTE - admin panel",
+    "dependencies": {
+        "express": "~4.13.3",
+        "compression": "1.5.2"
+    }
+}
