@@ -14,3 +14,7 @@
 .ui.sidebar.menu .item {
     cursor: pointer;
 }
+
+.ui.relaxed.grid {
+    padding: 0 2rem 0 1rem;
+}
